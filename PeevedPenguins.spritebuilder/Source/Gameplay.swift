@@ -11,10 +11,15 @@ import Foundation
 class Gameplay: CCNode {
   
   var physicsNode: CCPhysicsNode!
+  var contentNode: CCNode!
   var catapultArm: CCNode!
+  var levelNode: CCNode!
   
   func didLoadFromCCB() {
     userInteractionEnabled = true
+    
+    let level: CCNode = CCBReader.load("Levels/Level1")
+    levelNode.addChild(level)
   }
   
   override func touchBegan(touch: CCTouch!, withEvent event: CCTouchEvent!) {
@@ -31,6 +36,15 @@ class Gameplay: CCNode {
     let launchDirection = CGPoint(x: 1, y: 0)
     let force = ccpMult(launchDirection, 8000)
     penguin.physicsBody.applyForce(force)
+    
+    position = CGPointZero
+    let followAction = CCActionFollow(target: penguin, worldBoundary: boundingBox())
+    contentNode.runAction(followAction)
+  }
+  
+  func retry() {
+    let gameplayScene: CCScene = CCBReader.loadAsScene("Gameplay")
+    CCDirector.sharedDirector().replaceScene(gameplayScene)
   }
   
 }
