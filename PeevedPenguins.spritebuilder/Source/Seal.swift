@@ -7,5 +7,5 @@
 //
 
 class Seal: CCSprite {
-   
+  
 }

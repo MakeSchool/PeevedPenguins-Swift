@@ -88,6 +88,8 @@
      @"resources-phonehd", CCFileUtilsSuffixiPhoneHD,
      @"resources-phone", CCFileUtilsSuffixiPhone5,
      @"resources-phonehd", CCFileUtilsSuffixiPhone5HD,
+     @"resources-phone", CCFileUtilsSuffixMac,
+     @"resources-phonehd", CCFileUtilsSuffixMacHD,
      @"", CCFileUtilsSuffixDefault,
      nil];
     
@@ -352,11 +354,6 @@ static inline float readFloat(CCBReader *self)
 {
     int n = readIntWithSign(self, NO);
     return [stringCache objectAtIndex:n];
-}
-
--(void) readerDidSetSpriteFrame:(CCSpriteFrame*)spriteFrame node:(CCNode*)node
-{
-	// does nothing, overridden by Sprite Kit reader
 }
 
 - (void) readPropertyForNode:(CCNode*) node parent:(CCNode*)parent isExtraProp:(BOOL)isExtraProp
@@ -626,7 +623,6 @@ static inline float readFloat(CCBReader *self)
         {
             CCSpriteFrame* spriteFrame = [CCSpriteFrame frameWithImageNamed:spriteFile];
             [node setValue:spriteFrame forKey:name];
-			[self readerDidSetSpriteFrame:spriteFrame node:node];
             
 #if DEBUG_READER_PROPERTIES
 			valueString = [NSString stringWithFormat:@"%@ (%@)", valueString, spriteFrame];
@@ -946,6 +942,15 @@ static inline float readFloat(CCBReader *self)
 		}
 				
 	}
+    else if(type == kCCBPropTypeTokenArray)
+    {
+        NSString *arrayString = [self readCachedString];
+        if(![arrayString isEqualToString:@""])
+        {
+            NSArray *array = [arrayString componentsSeparatedByString:@";"];
+            [node setValue:array forKey:name];
+        }        
+    }
     else
     {
         NSAssert(false, @"[PROPERTY] %@ - Failed to read property type %d, node class name: \"%@\", name: \"%@\", in ccb file: \"%@\"", name, type, [node class], [node name], _currentCCBFile);
@@ -1895,13 +1900,6 @@ SelectorNameForProperty(objc_property_t property)
 
 + (CCBReader*) reader
 {
-	// if available, create an instance of Sprite Kit Reader class instead
-	Class spriteKitReaderClass = NSClassFromString(@"CCBSpriteKitReader");
-	if (spriteKitReaderClass)
-	{
-		return [[spriteKitReaderClass alloc] init];
-	}
-	
     return [[CCBReader alloc] init];
 }
 
@@ -1952,16 +1950,6 @@ SelectorNameForProperty(objc_property_t property)
 {
     NSArray *searchPaths = NSSearchPathForDirectoriesInDomains(NSCachesDirectory, NSUserDomainMask, YES);
     return [[searchPaths objectAtIndex:0] stringByAppendingPathComponent:@"ccb"];
-}
-
-+(void) setSceneSize:(CGSize)sceneSize
-{
-	[[CCBReader reader] setSceneSize:sceneSize];
-}
-
--(void) setSceneSize:(CGSize)sceneSize
-{
-	// does nothing, only needed for CCBSpriteKitReader
 }
 
 @end

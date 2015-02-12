@@ -41,7 +41,7 @@
 
 // 0x00 HI ME LO
 // 00   03 01 01
-#define COCOS2D_VERSION 0x00030300
+#define COCOS2D_VERSION 0x00030403
 #define COCOS2D_BUILD @"develop"
 //
 // all cocos2d include files
@@ -107,6 +107,7 @@
 #import "CCPackage.h"
 
 #if CC_EFFECTS_EXPERIMENTAL
+#import "CCEffectOutline.h"
 #import "CCEffectDFOutline.h"
 #import "CCEffectDistanceField.h"
 #import "CCEffectDFInnerGlow.h"
@@ -129,7 +130,7 @@
 #import "OALSimpleAudio.h"
 
 // Retiring
-//#import "CCAnimation.h"
+#import "CCAnimation.h" // put this back for v3.4 because it's still in use, and would otherwise be unavailable to Swift
 //#import "CCAnimationCache.h"
 //#import "CCActionManager.h"
 //#import "ccFPSImages.h"
@@ -166,7 +167,7 @@
 #import "Platforms/Android/CCActivity.h"
 #import "Platforms/Android/CCGLView.h"
 #import "Platforms/Android/CCDirectorAndroid.h"
-#import <BridgeKitV3/BridgeKit.h>
+
 #import <android/native_window.h>
 #import <bridge/runtime.h>
 #endif

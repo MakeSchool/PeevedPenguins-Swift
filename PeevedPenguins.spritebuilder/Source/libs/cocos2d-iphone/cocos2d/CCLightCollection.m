@@ -29,9 +29,6 @@
 #import "CCLightNode_Private.h"
 
 
-#if CC_EFFECTS_EXPERIMENTAL
-
-
 const CCLightGroupMask CCLightCollectionAllGroups = ~((CCLightGroupMask)0);
 static const NSUInteger CCLightCollectionMaxGroupCount = sizeof(NSUInteger) * 8;
 
@@ -98,12 +95,27 @@ static const NSUInteger CCLightCollectionMaxGroupCount = sizeof(NSUInteger) * 8;
     }
 }
 
+- (CCColor*)findAmbientSumForLightsWithMask:(CCLightGroupMask)mask
+{
+    GLKVector4 sum = GLKVector4Make(0.0f, 0.0f, 0.0f, 0.0f);
+    for (CCLightNode* light in self.lights)
+    {
+        if (light.visible && (light.groupMask & mask))
+        {
+            sum = GLKVector4Add(sum, GLKVector4MultiplyScalar(light.ambientColor.glkVector4, light.ambientIntensity));
+        }
+    }
+    return [CCColor colorWithGLKVector4:sum];
+}
+
 
 #pragma mark - Group management
 
 - (CCLightGroupMask)maskForGroups:(NSArray *)groups
 {
-    if (groups)
+    // If the groups array is non-nil and non-empty convert its contents
+    // into a bitmask.
+    if (groups.count)
     {
         CCLightGroupMask bitmask = 0;
         for(NSString *group in groups)
@@ -114,11 +126,15 @@ static const NSUInteger CCLightCollectionMaxGroupCount = sizeof(NSUInteger) * 8;
     }
     else
     {
-        // nil (the default value) is equivalent to all groups.
+        // The groups array is nil or empty which is equivalent to all groups.
         return CCLightCollectionAllGroups;
     }
 }
 
+- (void)flushGroupNames
+{
+    [self.groupNames removeAllObjects];
+}
 
 #pragma mark - Private helpers
 
@@ -210,14 +226,7 @@ static const NSUInteger CCLightCollectionMaxGroupCount = sizeof(NSUInteger) * 8;
 + (BOOL)light:(CCLightNode *)light hasEffectOnGroups:(CCLightGroupMask)groupMask atPoint:(CGPoint)point
 {
     BOOL groupsIntersect = ((light.groupMask & groupMask) != 0);
-    BOOL distanceMatters = (light.cutoffRadius > 0.0f);
-
-    float dSquared = [CCLightCollection distanceSquaredFromLight:light toPoint:point];
-    BOOL inRange = (dSquared < (light.cutoffRadius * light.cutoffRadius));
-    
-    return groupsIntersect && (!distanceMatters || inRange);
+    return light.visible && groupsIntersect;
 }
 
 @end
-
-#endif

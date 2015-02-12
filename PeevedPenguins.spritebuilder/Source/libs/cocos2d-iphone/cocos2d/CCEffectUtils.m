@@ -9,14 +9,43 @@
 #import "CCEffectUtils.h"
 #import "CCRenderTexture_Private.h"
 
+#ifndef BLUR_OPTIMIZED_RADIUS_MAX
+#define BLUR_OPTIMIZED_RADIUS_MAX 4UL
+#endif
+
 
 static const float CCEffectUtilsMinRefract = -0.25;
 static const float CCEffectUtilsMaxRefract = 0.043;
 
-static CCNode* CCEffectUtilsGetNodeParent(CCNode *node);
 static BOOL CCEffectUtilsNodeIsDescendantOfNode(CCNode *descendant, CCNode *ancestor);
 
 
+
+CCNode* CCEffectUtilsGetNodeParent(CCNode *node)
+{
+    if ([node isKindOfClass:[CCRenderTextureSprite class]])
+    {
+        CCRenderTextureSprite *rtSprite = (CCRenderTextureSprite *)node;
+        return rtSprite.renderTexture;
+    }
+    else
+    {
+        return node.parent;
+    }
+}
+
+CCScene* CCEffectUtilsGetNodeScene(CCNode *node)
+{
+    if ([node isKindOfClass:[CCRenderTextureSprite class]])
+    {
+        CCRenderTextureSprite *rtSprite = (CCRenderTextureSprite *)node;
+        return rtSprite.renderTexture.scene;
+    }
+    else
+    {
+        return node.scene;
+    }
+}
 
 CCNode* CCEffectUtilsFindCommonAncestor(CCNode *first, CCNode *second)
 {
@@ -82,19 +111,6 @@ GLKMatrix4 CCEffectUtilsTransformFromNodeToNode(CCNode *first, CCNode *second, B
     // Concatenate t1 and the inverse of t2 to give us the transform from the first node
     // to the second.
     return GLKMatrix4Multiply(GLKMatrix4Invert(t2, nil), t1);
-}
-
-CCNode* CCEffectUtilsGetNodeParent(CCNode *node)
-{
-    if ([node isKindOfClass:[CCRenderTextureSprite class]])
-    {
-        CCRenderTextureSprite *rtSprite = (CCRenderTextureSprite *)node;
-        return rtSprite.renderTexture;
-    }
-    else
-    {
-        return node.parent;
-    }
 }
 
 BOOL CCEffectUtilsNodeIsDescendantOfNode(CCNode *descendant, CCNode *ancestor)
@@ -195,5 +211,20 @@ void CCEffectUtilsPrintMatrix(NSString *label, GLKMatrix4 matrix)
     NSLog(@"%f %f %f %f", matrix.m30, matrix.m31, matrix.m32, matrix.m33);
 }
 
+CCEffectBlurParams CCEffectUtilsComputeBlurParams(NSUInteger radius)
+{
+    CCEffectBlurParams result;
+    
+    result.trueRadius = radius;
+    result.radius = MIN(radius, BLUR_OPTIMIZED_RADIUS_MAX);
+    result.sigma = result.trueRadius / 2;
+    if(result.sigma == 0.0)
+    {
+        result.sigma = 1.0f;
+    }
+    result.numberOfOptimizedOffsets = MIN(result.radius / 2 + (result.radius % 2), BLUR_OPTIMIZED_RADIUS_MAX);
+
+    return result;
+}
 
 

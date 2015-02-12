@@ -7,5 +7,5 @@
 //
 
 class Penguin: CCSprite {
-  var isPenguin = true
+  var launched = false
 }

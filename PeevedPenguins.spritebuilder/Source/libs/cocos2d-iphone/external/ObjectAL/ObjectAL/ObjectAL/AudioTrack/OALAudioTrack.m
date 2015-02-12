@@ -36,8 +36,9 @@
 #import "ARCSafe_MemMgmt.h"
 
 #if __CC_PLATFORM_ANDROID
-#import <BridgeKitV3/AndroidMediaPlayer.h>
-#import <BridgeKitV3/AndroidAssetFileDescriptor.h>
+#import <AndroidKit/AndroidAssetFileDescriptor.h>
+#import <AndroidKit/AndroidAssetManager.h>
+#import <JavaKit/JavaFileDescriptor.h>
 #import "CCActivity.h"
 #endif
 
@@ -329,7 +330,6 @@
     [player setVolume:left rightVolume:right];
 }
 
-@bridge (callback) onCompletion: = onCompletion;
 - (void)onCompletion:(AndroidMediaPlayer *)mp {
     if (mp != player) {
         return;
@@ -764,7 +764,7 @@
             return NO;
         }
         player = [[AndroidMediaPlayer alloc] init];
-        AndroidAssetFileDescriptor *assetFd = [[[CCActivity currentActivity] assets] openFdWithFileName:path];
+        AndroidAssetFileDescriptor *assetFd = [[[CCActivity currentActivity] assets] openFd:path];
         if (assetFd.fileDescriptor && [assetFd.fileDescriptor valid]) {
             [player reset];
             [player setDataSource:assetFd.fileDescriptor offset:assetFd.startOffset length:assetFd.length];
@@ -777,7 +777,10 @@
             [assetFd close];
         }
 
-        [player setOnCompletionListener:self];
+        __weak id weakSelf = self;
+        [player setOnCompletionListener:[AndroidMediaPlayerOnCompletionListener listenerWithBlock:^(AndroidMediaPlayer *mp) {
+            [weakSelf onCompletion:mp];
+        }]];
 #endif
 		as_release(currentlyLoadedUrl);
 		currentlyLoadedUrl = as_retain(url);

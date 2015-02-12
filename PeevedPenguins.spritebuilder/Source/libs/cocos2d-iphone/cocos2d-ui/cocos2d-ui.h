@@ -31,7 +31,4 @@
 #import "CCSlider.h"
 
 // CCBReader
-#import "CCBReader.h"
-#import "CCBAnimationManager.h"
-#import "CCAnimationManager.h"
-#import "CCBLocalizationManager.h"
+#import "CCBuilderReader.h"
