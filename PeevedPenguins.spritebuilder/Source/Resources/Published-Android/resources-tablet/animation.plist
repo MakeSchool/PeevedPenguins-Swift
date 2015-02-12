@@ -1,0 +1,1578 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>animation/1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{155, 617}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>animation/10.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{78, 309}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>animation/100.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{309, 232}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>animation/101.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{925, 232}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>animation/102.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{386, 309}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>animation/103.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{386, 540}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>animation/104.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{540, 386}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>animation/105.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>animation/106.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 848}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>animation/107.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{386, 1}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>animation/108.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{78, 463}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>animation/109.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{155, 78}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>animation/11.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{771, 309}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>animation/110.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 694}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>animation/111.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{309, 1}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>animation/112.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{78, 232}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>animation/113.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{78, 925}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>animation/114.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{771, 78}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>animation/115.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{155, 540}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>animation/116.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{463, 155}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>animation/117.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{232, 463}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>animation/118.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{386, 232}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>animation/119.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{309, 463}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>animation/12.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{155, 771}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>animation/120.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{617, 155}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>animation/13.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 617}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>animation/14.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{694, 232}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>animation/15.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{309, 78}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>animation/16.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{386, 925}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>animation/17.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{848, 155}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>animation/18.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{617, 1}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>animation/19.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{309, 848}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>animation/2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{848, 309}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>animation/20.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{463, 386}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>animation/21.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{771, 155}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>animation/22.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{540, 1}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>animation/23.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{309, 771}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>animation/24.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{155, 309}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>animation/25.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 309}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>animation/26.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{232, 925}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>animation/27.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{78, 694}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>animation/28.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{386, 386}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>animation/29.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{232, 155}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>animation/3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{78, 386}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>animation/30.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{232, 848}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>animation/31.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{78, 617}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>animation/32.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{386, 617}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>animation/33.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{386, 155}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>animation/34.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{155, 1}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>animation/35.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{309, 309}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>animation/36.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{540, 78}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>animation/37.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{694, 386}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>animation/38.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{232, 232}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>animation/39.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{925, 1}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>animation/4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{232, 694}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>animation/40.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{617, 78}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>animation/41.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{771, 386}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>animation/42.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{232, 386}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>animation/43.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{78, 78}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>animation/44.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{617, 309}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>animation/45.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{155, 463}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>animation/46.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 386}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>animation/47.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{463, 232}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>animation/48.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{78, 771}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>animation/49.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{386, 771}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>animation/5.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 155}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>animation/50.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 463}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>animation/51.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{540, 232}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>animation/52.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{78, 848}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>animation/53.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{386, 694}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>animation/54.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{540, 155}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>animation/55.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{232, 1}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>animation/56.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{309, 617}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>animation/57.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{848, 78}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>animation/58.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{925, 386}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>animation/59.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{232, 617}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>animation/6.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{155, 232}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>animation/60.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{309, 540}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>animation/61.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{694, 78}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>animation/62.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{848, 386}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>animation/63.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{232, 540}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>animation/64.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{78, 155}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>animation/65.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{694, 309}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>animation/66.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{155, 848}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>animation/67.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 771}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>animation/68.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{617, 232}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>animation/69.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{232, 78}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>animation/7.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{463, 309}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>animation/70.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{155, 694}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>animation/71.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 540}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>animation/72.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{771, 232}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>animation/73.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{386, 78}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>animation/74.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{386, 848}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>animation/75.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{694, 155}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>animation/76.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{463, 1}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>animation/77.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{309, 694}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>animation/78.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{925, 78}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>animation/79.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 78}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>animation/8.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{771, 1}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>animation/80.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{694, 1}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>animation/81.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{309, 925}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>animation/82.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{155, 155}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>animation/83.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 232}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>animation/84.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{232, 771}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>animation/85.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{78, 540}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>animation/86.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{925, 309}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>animation/87.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{155, 925}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>animation/88.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 925}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>animation/89.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{309, 386}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>animation/9.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{232, 309}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>animation/90.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{386, 463}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>animation/91.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{309, 155}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>animation/92.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{78, 1}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>animation/93.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{848, 232}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>animation/94.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{463, 78}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>animation/95.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{617, 386}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>animation/96.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{925, 155}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>animation/97.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{848, 1}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>animation/98.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{540, 309}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+		<key>animation/99.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{155, 386}, {75, 75}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>sourceSize</key>
+			<string>{75, 75}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>size</key>
+		<string>{1024, 1024}</string>
+		<key>textureFileName</key>
+		<string>animation.png</string>
+	</dict>
+</dict>
+</plist>

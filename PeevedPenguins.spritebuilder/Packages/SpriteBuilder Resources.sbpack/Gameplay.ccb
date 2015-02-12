@@ -1245,7 +1245,7 @@
 						<key>customClass</key>
 						<string></string>
 						<key>displayName</key>
-						<string>CCBFile</string>
+						<string>WaitingPenguin</string>
 						<key>memberVarAssignmentName</key>
 						<string></string>
 						<key>memberVarAssignmentType</key>
@@ -1307,7 +1307,7 @@
 						<key>customClass</key>
 						<string></string>
 						<key>displayName</key>
-						<string>CCBFile</string>
+						<string>WaitingPenguin</string>
 						<key>memberVarAssignmentName</key>
 						<string></string>
 						<key>memberVarAssignmentType</key>
@@ -1369,7 +1369,7 @@
 						<key>customClass</key>
 						<string></string>
 						<key>displayName</key>
-						<string>CCBFile</string>
+						<string>WaitingPenguin</string>
 						<key>memberVarAssignmentName</key>
 						<string></string>
 						<key>memberVarAssignmentType</key>
@@ -1420,14 +1420,12 @@
 								<string>WaitingPenguin.ccb</string>
 							</dict>
 						</array>
-						<key>selected</key>
-						<true/>
 					</dict>
 				</array>
 				<key>customClass</key>
 				<string></string>
 				<key>displayName</key>
-				<string>CCNode</string>
+				<string>contentNode</string>
 				<key>memberVarAssignmentName</key>
 				<string>contentNode</string>
 				<key>memberVarAssignmentType</key>
@@ -1505,7 +1503,7 @@
 				<key>customClass</key>
 				<string></string>
 				<key>displayName</key>
-				<string>CCButton</string>
+				<string>retryButton</string>
 				<key>memberVarAssignmentName</key>
 				<string></string>
 				<key>memberVarAssignmentType</key>
@@ -1820,6 +1818,8 @@
 						</array>
 					</dict>
 				</array>
+				<key>selected</key>
+				<true/>
 			</dict>
 			<dict>
 				<key>UUID</key>
@@ -2086,9 +2086,9 @@
 				<key>value</key>
 				<array>
 					<real>960</real>
-					<real>320</real>
+					<real>1</real>
 					<integer>0</integer>
-					<integer>0</integer>
+					<integer>2</integer>
 				</array>
 			</dict>
 			<dict>
@@ -2171,7 +2171,7 @@
 			<key>offset</key>
 			<real>0.0</real>
 			<key>position</key>
-			<real>2.1333334445953369</real>
+			<real>4.8333334922790527</real>
 			<key>resolution</key>
 			<real>30</real>
 			<key>scale</key>

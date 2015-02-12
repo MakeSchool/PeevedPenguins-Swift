@@ -1,0 +1,1578 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>animation/1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{79, 313}, {37, 37}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 37}}</string>
+			<key>sourceSize</key>
+			<string>{37, 37}</string>
+		</dict>
+		<key>animation/10.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{40, 157}, {37, 37}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 37}}</string>
+			<key>sourceSize</key>
+			<string>{37, 37}</string>
+		</dict>
+		<key>animation/100.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{157, 118}, {37, 37}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 37}}</string>
+			<key>sourceSize</key>
+			<string>{37, 37}</string>
+		</dict>
+		<key>animation/101.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{469, 118}, {37, 37}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 37}}</string>
+			<key>sourceSize</key>
+			<string>{37, 37}</string>
+		</dict>
+		<key>animation/102.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{196, 157}, {37, 37}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 37}}</string>
+			<key>sourceSize</key>
+			<string>{37, 37}</string>
+		</dict>
+		<key>animation/103.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{196, 274}, {37, 37}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 37}}</string>
+			<key>sourceSize</key>
+			<string>{37, 37}</string>
+		</dict>
+		<key>animation/104.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{274, 196}, {37, 37}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 37}}</string>
+			<key>sourceSize</key>
+			<string>{37, 37}</string>
+		</dict>
+		<key>animation/105.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {37, 37}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 37}}</string>
+			<key>sourceSize</key>
+			<string>{37, 37}</string>
+		</dict>
+		<key>animation/106.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 430}, {37, 37}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 37}}</string>
+			<key>sourceSize</key>
+			<string>{37, 37}</string>
+		</dict>
+		<key>animation/107.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{196, 1}, {37, 37}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 37}}</string>
+			<key>sourceSize</key>
+			<string>{37, 37}</string>
+		</dict>
+		<key>animation/108.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{40, 235}, {37, 37}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 37}}</string>
+			<key>sourceSize</key>
+			<string>{37, 37}</string>
+		</dict>
+		<key>animation/109.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{79, 40}, {37, 37}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 37}}</string>
+			<key>sourceSize</key>
+			<string>{37, 37}</string>
+		</dict>
+		<key>animation/11.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{391, 157}, {37, 37}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 37}}</string>
+			<key>sourceSize</key>
+			<string>{37, 37}</string>
+		</dict>
+		<key>animation/110.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 352}, {37, 37}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 37}}</string>
+			<key>sourceSize</key>
+			<string>{37, 37}</string>
+		</dict>
+		<key>animation/111.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{157, 1}, {37, 37}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 37}}</string>
+			<key>sourceSize</key>
+			<string>{37, 37}</string>
+		</dict>
+		<key>animation/112.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{40, 118}, {37, 37}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 37}}</string>
+			<key>sourceSize</key>
+			<string>{37, 37}</string>
+		</dict>
+		<key>animation/113.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{40, 469}, {37, 37}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 37}}</string>
+			<key>sourceSize</key>
+			<string>{37, 37}</string>
+		</dict>
+		<key>animation/114.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{391, 40}, {37, 37}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 37}}</string>
+			<key>sourceSize</key>
+			<string>{37, 37}</string>
+		</dict>
+		<key>animation/115.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{79, 274}, {37, 37}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 37}}</string>
+			<key>sourceSize</key>
+			<string>{37, 37}</string>
+		</dict>
+		<key>animation/116.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{235, 79}, {37, 37}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 37}}</string>
+			<key>sourceSize</key>
+			<string>{37, 37}</string>
+		</dict>
+		<key>animation/117.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{118, 235}, {37, 37}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 37}}</string>
+			<key>sourceSize</key>
+			<string>{37, 37}</string>
+		</dict>
+		<key>animation/118.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{196, 118}, {37, 37}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 37}}</string>
+			<key>sourceSize</key>
+			<string>{37, 37}</string>
+		</dict>
+		<key>animation/119.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{157, 235}, {37, 37}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 37}}</string>
+			<key>sourceSize</key>
+			<string>{37, 37}</string>
+		</dict>
+		<key>animation/12.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{79, 391}, {37, 37}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 37}}</string>
+			<key>sourceSize</key>
+			<string>{37, 37}</string>
+		</dict>
+		<key>animation/120.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{313, 79}, {37, 37}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 37}}</string>
+			<key>sourceSize</key>
+			<string>{37, 37}</string>
+		</dict>
+		<key>animation/13.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 313}, {37, 37}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 37}}</string>
+			<key>sourceSize</key>
+			<string>{37, 37}</string>
+		</dict>
+		<key>animation/14.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{352, 118}, {37, 37}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 37}}</string>
+			<key>sourceSize</key>
+			<string>{37, 37}</string>
+		</dict>
+		<key>animation/15.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{157, 40}, {37, 37}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 37}}</string>
+			<key>sourceSize</key>
+			<string>{37, 37}</string>
+		</dict>
+		<key>animation/16.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{196, 469}, {37, 37}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 37}}</string>
+			<key>sourceSize</key>
+			<string>{37, 37}</string>
+		</dict>
+		<key>animation/17.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{430, 79}, {37, 37}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 37}}</string>
+			<key>sourceSize</key>
+			<string>{37, 37}</string>
+		</dict>
+		<key>animation/18.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{313, 1}, {37, 37}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 37}}</string>
+			<key>sourceSize</key>
+			<string>{37, 37}</string>
+		</dict>
+		<key>animation/19.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{157, 430}, {37, 37}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 37}}</string>
+			<key>sourceSize</key>
+			<string>{37, 37}</string>
+		</dict>
+		<key>animation/2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{430, 157}, {37, 37}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 37}}</string>
+			<key>sourceSize</key>
+			<string>{37, 37}</string>
+		</dict>
+		<key>animation/20.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{235, 196}, {37, 37}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 37}}</string>
+			<key>sourceSize</key>
+			<string>{37, 37}</string>
+		</dict>
+		<key>animation/21.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{391, 79}, {37, 37}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 37}}</string>
+			<key>sourceSize</key>
+			<string>{37, 37}</string>
+		</dict>
+		<key>animation/22.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{274, 1}, {37, 37}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 37}}</string>
+			<key>sourceSize</key>
+			<string>{37, 37}</string>
+		</dict>
+		<key>animation/23.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{157, 391}, {37, 37}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 37}}</string>
+			<key>sourceSize</key>
+			<string>{37, 37}</string>
+		</dict>
+		<key>animation/24.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{79, 157}, {37, 37}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 37}}</string>
+			<key>sourceSize</key>
+			<string>{37, 37}</string>
+		</dict>
+		<key>animation/25.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 157}, {37, 37}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 37}}</string>
+			<key>sourceSize</key>
+			<string>{37, 37}</string>
+		</dict>
+		<key>animation/26.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{118, 469}, {37, 37}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 37}}</string>
+			<key>sourceSize</key>
+			<string>{37, 37}</string>
+		</dict>
+		<key>animation/27.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{40, 352}, {37, 37}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 37}}</string>
+			<key>sourceSize</key>
+			<string>{37, 37}</string>
+		</dict>
+		<key>animation/28.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{196, 196}, {37, 37}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 37}}</string>
+			<key>sourceSize</key>
+			<string>{37, 37}</string>
+		</dict>
+		<key>animation/29.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{118, 79}, {37, 37}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 37}}</string>
+			<key>sourceSize</key>
+			<string>{37, 37}</string>
+		</dict>
+		<key>animation/3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{40, 196}, {37, 37}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 37}}</string>
+			<key>sourceSize</key>
+			<string>{37, 37}</string>
+		</dict>
+		<key>animation/30.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{118, 430}, {37, 37}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 37}}</string>
+			<key>sourceSize</key>
+			<string>{37, 37}</string>
+		</dict>
+		<key>animation/31.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{40, 313}, {37, 37}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 37}}</string>
+			<key>sourceSize</key>
+			<string>{37, 37}</string>
+		</dict>
+		<key>animation/32.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{196, 313}, {37, 37}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 37}}</string>
+			<key>sourceSize</key>
+			<string>{37, 37}</string>
+		</dict>
+		<key>animation/33.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{196, 79}, {37, 37}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 37}}</string>
+			<key>sourceSize</key>
+			<string>{37, 37}</string>
+		</dict>
+		<key>animation/34.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{79, 1}, {37, 37}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 37}}</string>
+			<key>sourceSize</key>
+			<string>{37, 37}</string>
+		</dict>
+		<key>animation/35.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{157, 157}, {37, 37}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 37}}</string>
+			<key>sourceSize</key>
+			<string>{37, 37}</string>
+		</dict>
+		<key>animation/36.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{274, 40}, {37, 37}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 37}}</string>
+			<key>sourceSize</key>
+			<string>{37, 37}</string>
+		</dict>
+		<key>animation/37.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{352, 196}, {37, 37}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 37}}</string>
+			<key>sourceSize</key>
+			<string>{37, 37}</string>
+		</dict>
+		<key>animation/38.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{118, 118}, {37, 37}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 37}}</string>
+			<key>sourceSize</key>
+			<string>{37, 37}</string>
+		</dict>
+		<key>animation/39.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{469, 1}, {37, 37}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 37}}</string>
+			<key>sourceSize</key>
+			<string>{37, 37}</string>
+		</dict>
+		<key>animation/4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{118, 352}, {37, 37}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 37}}</string>
+			<key>sourceSize</key>
+			<string>{37, 37}</string>
+		</dict>
+		<key>animation/40.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{313, 40}, {37, 37}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 37}}</string>
+			<key>sourceSize</key>
+			<string>{37, 37}</string>
+		</dict>
+		<key>animation/41.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{391, 196}, {37, 37}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 37}}</string>
+			<key>sourceSize</key>
+			<string>{37, 37}</string>
+		</dict>
+		<key>animation/42.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{118, 196}, {37, 37}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 37}}</string>
+			<key>sourceSize</key>
+			<string>{37, 37}</string>
+		</dict>
+		<key>animation/43.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{40, 40}, {37, 37}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 37}}</string>
+			<key>sourceSize</key>
+			<string>{37, 37}</string>
+		</dict>
+		<key>animation/44.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{313, 157}, {37, 37}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 37}}</string>
+			<key>sourceSize</key>
+			<string>{37, 37}</string>
+		</dict>
+		<key>animation/45.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{79, 235}, {37, 37}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 37}}</string>
+			<key>sourceSize</key>
+			<string>{37, 37}</string>
+		</dict>
+		<key>animation/46.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 196}, {37, 37}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 37}}</string>
+			<key>sourceSize</key>
+			<string>{37, 37}</string>
+		</dict>
+		<key>animation/47.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{235, 118}, {37, 37}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 37}}</string>
+			<key>sourceSize</key>
+			<string>{37, 37}</string>
+		</dict>
+		<key>animation/48.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{40, 391}, {37, 37}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 37}}</string>
+			<key>sourceSize</key>
+			<string>{37, 37}</string>
+		</dict>
+		<key>animation/49.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{196, 391}, {37, 37}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 37}}</string>
+			<key>sourceSize</key>
+			<string>{37, 37}</string>
+		</dict>
+		<key>animation/5.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 79}, {37, 37}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 37}}</string>
+			<key>sourceSize</key>
+			<string>{37, 37}</string>
+		</dict>
+		<key>animation/50.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 235}, {37, 37}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 37}}</string>
+			<key>sourceSize</key>
+			<string>{37, 37}</string>
+		</dict>
+		<key>animation/51.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{274, 118}, {37, 37}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 37}}</string>
+			<key>sourceSize</key>
+			<string>{37, 37}</string>
+		</dict>
+		<key>animation/52.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{40, 430}, {37, 37}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 37}}</string>
+			<key>sourceSize</key>
+			<string>{37, 37}</string>
+		</dict>
+		<key>animation/53.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{196, 352}, {37, 37}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 37}}</string>
+			<key>sourceSize</key>
+			<string>{37, 37}</string>
+		</dict>
+		<key>animation/54.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{274, 79}, {37, 37}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 37}}</string>
+			<key>sourceSize</key>
+			<string>{37, 37}</string>
+		</dict>
+		<key>animation/55.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{118, 1}, {37, 37}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 37}}</string>
+			<key>sourceSize</key>
+			<string>{37, 37}</string>
+		</dict>
+		<key>animation/56.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{157, 313}, {37, 37}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 37}}</string>
+			<key>sourceSize</key>
+			<string>{37, 37}</string>
+		</dict>
+		<key>animation/57.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{430, 40}, {37, 37}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 37}}</string>
+			<key>sourceSize</key>
+			<string>{37, 37}</string>
+		</dict>
+		<key>animation/58.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{469, 196}, {37, 37}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 37}}</string>
+			<key>sourceSize</key>
+			<string>{37, 37}</string>
+		</dict>
+		<key>animation/59.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{118, 313}, {37, 37}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 37}}</string>
+			<key>sourceSize</key>
+			<string>{37, 37}</string>
+		</dict>
+		<key>animation/6.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{79, 118}, {37, 37}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 37}}</string>
+			<key>sourceSize</key>
+			<string>{37, 37}</string>
+		</dict>
+		<key>animation/60.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{157, 274}, {37, 37}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 37}}</string>
+			<key>sourceSize</key>
+			<string>{37, 37}</string>
+		</dict>
+		<key>animation/61.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{352, 40}, {37, 37}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 37}}</string>
+			<key>sourceSize</key>
+			<string>{37, 37}</string>
+		</dict>
+		<key>animation/62.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{430, 196}, {37, 37}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 37}}</string>
+			<key>sourceSize</key>
+			<string>{37, 37}</string>
+		</dict>
+		<key>animation/63.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{118, 274}, {37, 37}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 37}}</string>
+			<key>sourceSize</key>
+			<string>{37, 37}</string>
+		</dict>
+		<key>animation/64.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{40, 79}, {37, 37}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 37}}</string>
+			<key>sourceSize</key>
+			<string>{37, 37}</string>
+		</dict>
+		<key>animation/65.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{352, 157}, {37, 37}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 37}}</string>
+			<key>sourceSize</key>
+			<string>{37, 37}</string>
+		</dict>
+		<key>animation/66.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{79, 430}, {37, 37}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 37}}</string>
+			<key>sourceSize</key>
+			<string>{37, 37}</string>
+		</dict>
+		<key>animation/67.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 391}, {37, 37}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 37}}</string>
+			<key>sourceSize</key>
+			<string>{37, 37}</string>
+		</dict>
+		<key>animation/68.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{313, 118}, {37, 37}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 37}}</string>
+			<key>sourceSize</key>
+			<string>{37, 37}</string>
+		</dict>
+		<key>animation/69.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{118, 40}, {37, 37}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 37}}</string>
+			<key>sourceSize</key>
+			<string>{37, 37}</string>
+		</dict>
+		<key>animation/7.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{235, 157}, {37, 37}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 37}}</string>
+			<key>sourceSize</key>
+			<string>{37, 37}</string>
+		</dict>
+		<key>animation/70.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{79, 352}, {37, 37}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 37}}</string>
+			<key>sourceSize</key>
+			<string>{37, 37}</string>
+		</dict>
+		<key>animation/71.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 274}, {37, 37}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 37}}</string>
+			<key>sourceSize</key>
+			<string>{37, 37}</string>
+		</dict>
+		<key>animation/72.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{391, 118}, {37, 37}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 37}}</string>
+			<key>sourceSize</key>
+			<string>{37, 37}</string>
+		</dict>
+		<key>animation/73.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{196, 40}, {37, 37}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 37}}</string>
+			<key>sourceSize</key>
+			<string>{37, 37}</string>
+		</dict>
+		<key>animation/74.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{196, 430}, {37, 37}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 37}}</string>
+			<key>sourceSize</key>
+			<string>{37, 37}</string>
+		</dict>
+		<key>animation/75.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{352, 79}, {37, 37}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 37}}</string>
+			<key>sourceSize</key>
+			<string>{37, 37}</string>
+		</dict>
+		<key>animation/76.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{235, 1}, {37, 37}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 37}}</string>
+			<key>sourceSize</key>
+			<string>{37, 37}</string>
+		</dict>
+		<key>animation/77.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{157, 352}, {37, 37}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 37}}</string>
+			<key>sourceSize</key>
+			<string>{37, 37}</string>
+		</dict>
+		<key>animation/78.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{469, 40}, {37, 37}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 37}}</string>
+			<key>sourceSize</key>
+			<string>{37, 37}</string>
+		</dict>
+		<key>animation/79.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 40}, {37, 37}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 37}}</string>
+			<key>sourceSize</key>
+			<string>{37, 37}</string>
+		</dict>
+		<key>animation/8.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{391, 1}, {37, 37}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 37}}</string>
+			<key>sourceSize</key>
+			<string>{37, 37}</string>
+		</dict>
+		<key>animation/80.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{352, 1}, {37, 37}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 37}}</string>
+			<key>sourceSize</key>
+			<string>{37, 37}</string>
+		</dict>
+		<key>animation/81.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{157, 469}, {37, 37}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 37}}</string>
+			<key>sourceSize</key>
+			<string>{37, 37}</string>
+		</dict>
+		<key>animation/82.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{79, 79}, {37, 37}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 37}}</string>
+			<key>sourceSize</key>
+			<string>{37, 37}</string>
+		</dict>
+		<key>animation/83.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 118}, {37, 37}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 37}}</string>
+			<key>sourceSize</key>
+			<string>{37, 37}</string>
+		</dict>
+		<key>animation/84.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{118, 391}, {37, 37}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 37}}</string>
+			<key>sourceSize</key>
+			<string>{37, 37}</string>
+		</dict>
+		<key>animation/85.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{40, 274}, {37, 37}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 37}}</string>
+			<key>sourceSize</key>
+			<string>{37, 37}</string>
+		</dict>
+		<key>animation/86.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{469, 157}, {37, 37}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 37}}</string>
+			<key>sourceSize</key>
+			<string>{37, 37}</string>
+		</dict>
+		<key>animation/87.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{79, 469}, {37, 37}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 37}}</string>
+			<key>sourceSize</key>
+			<string>{37, 37}</string>
+		</dict>
+		<key>animation/88.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 469}, {37, 37}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 37}}</string>
+			<key>sourceSize</key>
+			<string>{37, 37}</string>
+		</dict>
+		<key>animation/89.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{157, 196}, {37, 37}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 37}}</string>
+			<key>sourceSize</key>
+			<string>{37, 37}</string>
+		</dict>
+		<key>animation/9.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{118, 157}, {37, 37}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 37}}</string>
+			<key>sourceSize</key>
+			<string>{37, 37}</string>
+		</dict>
+		<key>animation/90.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{196, 235}, {37, 37}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 37}}</string>
+			<key>sourceSize</key>
+			<string>{37, 37}</string>
+		</dict>
+		<key>animation/91.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{157, 79}, {37, 37}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 37}}</string>
+			<key>sourceSize</key>
+			<string>{37, 37}</string>
+		</dict>
+		<key>animation/92.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{40, 1}, {37, 37}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 37}}</string>
+			<key>sourceSize</key>
+			<string>{37, 37}</string>
+		</dict>
+		<key>animation/93.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{430, 118}, {37, 37}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 37}}</string>
+			<key>sourceSize</key>
+			<string>{37, 37}</string>
+		</dict>
+		<key>animation/94.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{235, 40}, {37, 37}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 37}}</string>
+			<key>sourceSize</key>
+			<string>{37, 37}</string>
+		</dict>
+		<key>animation/95.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{313, 196}, {37, 37}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 37}}</string>
+			<key>sourceSize</key>
+			<string>{37, 37}</string>
+		</dict>
+		<key>animation/96.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{469, 79}, {37, 37}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 37}}</string>
+			<key>sourceSize</key>
+			<string>{37, 37}</string>
+		</dict>
+		<key>animation/97.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{430, 1}, {37, 37}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 37}}</string>
+			<key>sourceSize</key>
+			<string>{37, 37}</string>
+		</dict>
+		<key>animation/98.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{274, 157}, {37, 37}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 37}}</string>
+			<key>sourceSize</key>
+			<string>{37, 37}</string>
+		</dict>
+		<key>animation/99.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{79, 196}, {37, 37}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {37, 37}}</string>
+			<key>sourceSize</key>
+			<string>{37, 37}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>size</key>
+		<string>{512, 512}</string>
+		<key>textureFileName</key>
+		<string>animation.png</string>
+	</dict>
+</dict>
+</plist>

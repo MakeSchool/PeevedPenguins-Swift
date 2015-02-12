@@ -16,7 +16,7 @@
 	<key>currentResolution</key>
 	<integer>0</integer>
 	<key>currentSequenceId</key>
-	<integer>1</integer>
+	<integer>0</integer>
 	<key>docDimensionsType</key>
 	<integer>1</integer>
 	<key>fileType</key>
@@ -57,7 +57,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>Assets/1.png</string>
+								<string>animation/1.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -75,7 +75,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>Assets/2.png</string>
+								<string>animation/2.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -93,7 +93,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>Assets/3.png</string>
+								<string>animation/3.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -111,7 +111,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>Assets/4.png</string>
+								<string>animation/4.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -129,7 +129,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>Assets/5.png</string>
+								<string>animation/5.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -147,7 +147,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>Assets/6.png</string>
+								<string>animation/6.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -165,7 +165,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>Assets/7.png</string>
+								<string>animation/7.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -183,7 +183,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>Assets/8.png</string>
+								<string>animation/8.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -201,7 +201,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>Assets/9.png</string>
+								<string>animation/9.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -219,7 +219,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>Assets/10.png</string>
+								<string>animation/10.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -237,7 +237,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>Assets/11.png</string>
+								<string>animation/11.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -255,7 +255,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>Assets/12.png</string>
+								<string>animation/12.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -273,7 +273,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>Assets/13.png</string>
+								<string>animation/13.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -291,7 +291,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>Assets/14.png</string>
+								<string>animation/14.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -309,7 +309,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>Assets/15.png</string>
+								<string>animation/15.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -327,7 +327,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>Assets/16.png</string>
+								<string>animation/16.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -345,7 +345,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>Assets/17.png</string>
+								<string>animation/17.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -363,7 +363,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>Assets/18.png</string>
+								<string>animation/18.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -381,7 +381,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>Assets/19.png</string>
+								<string>animation/19.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -399,7 +399,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>Assets/20.png</string>
+								<string>animation/20.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -417,7 +417,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>Assets/21.png</string>
+								<string>animation/21.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -435,7 +435,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>Assets/22.png</string>
+								<string>animation/22.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -453,7 +453,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>Assets/23.png</string>
+								<string>animation/23.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -471,7 +471,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>Assets/24.png</string>
+								<string>animation/24.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -489,7 +489,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>Assets/25.png</string>
+								<string>animation/25.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -507,7 +507,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>Assets/26.png</string>
+								<string>animation/26.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -525,7 +525,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>Assets/27.png</string>
+								<string>animation/27.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -543,7 +543,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>Assets/28.png</string>
+								<string>animation/28.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -561,7 +561,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>Assets/29.png</string>
+								<string>animation/29.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -579,7 +579,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>Assets/30.png</string>
+								<string>animation/30.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -597,7 +597,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>Assets/31.png</string>
+								<string>animation/31.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -615,7 +615,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>Assets/32.png</string>
+								<string>animation/32.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -633,7 +633,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>Assets/33.png</string>
+								<string>animation/33.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -651,7 +651,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>Assets/34.png</string>
+								<string>animation/34.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -669,7 +669,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>Assets/35.png</string>
+								<string>animation/35.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -687,7 +687,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>Assets/36.png</string>
+								<string>animation/36.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -705,7 +705,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>Assets/37.png</string>
+								<string>animation/37.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -723,7 +723,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>Assets/38.png</string>
+								<string>animation/38.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -741,7 +741,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>Assets/39.png</string>
+								<string>animation/39.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -759,7 +759,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>Assets/40.png</string>
+								<string>animation/40.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -777,7 +777,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>Assets/41.png</string>
+								<string>animation/41.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -795,7 +795,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>Assets/42.png</string>
+								<string>animation/42.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -813,7 +813,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>Assets/43.png</string>
+								<string>animation/43.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -831,7 +831,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>Assets/44.png</string>
+								<string>animation/44.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -849,7 +849,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>Assets/45.png</string>
+								<string>animation/45.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -867,7 +867,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>Assets/46.png</string>
+								<string>animation/46.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -885,7 +885,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>Assets/47.png</string>
+								<string>animation/47.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -903,7 +903,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>Assets/48.png</string>
+								<string>animation/48.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -921,7 +921,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>Assets/49.png</string>
+								<string>animation/49.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -939,7 +939,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>Assets/50.png</string>
+								<string>animation/50.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -957,7 +957,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>Assets/51.png</string>
+								<string>animation/51.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -975,7 +975,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>Assets/52.png</string>
+								<string>animation/52.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -993,7 +993,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>Assets/53.png</string>
+								<string>animation/53.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -1011,7 +1011,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>Assets/54.png</string>
+								<string>animation/54.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -1029,7 +1029,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>Assets/55.png</string>
+								<string>animation/55.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -1047,7 +1047,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>Assets/56.png</string>
+								<string>animation/56.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -1065,7 +1065,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>Assets/57.png</string>
+								<string>animation/57.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -1083,7 +1083,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>Assets/58.png</string>
+								<string>animation/58.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -1101,7 +1101,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>Assets/59.png</string>
+								<string>animation/59.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -1119,7 +1119,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>Assets/60.png</string>
+								<string>animation/60.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -1137,7 +1137,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>Assets/61.png</string>
+								<string>animation/61.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -1155,7 +1155,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>Assets/62.png</string>
+								<string>animation/62.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -1173,7 +1173,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>Assets/63.png</string>
+								<string>animation/63.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -1191,7 +1191,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>Assets/64.png</string>
+								<string>animation/64.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -1209,7 +1209,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>Assets/65.png</string>
+								<string>animation/65.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -1227,7 +1227,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>Assets/66.png</string>
+								<string>animation/66.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -1245,7 +1245,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>Assets/67.png</string>
+								<string>animation/67.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -1263,7 +1263,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>Assets/68.png</string>
+								<string>animation/68.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -1281,7 +1281,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>Assets/69.png</string>
+								<string>animation/69.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -1299,7 +1299,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>Assets/70.png</string>
+								<string>animation/70.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -1317,7 +1317,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>Assets/71.png</string>
+								<string>animation/71.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -1335,7 +1335,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>Assets/72.png</string>
+								<string>animation/72.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -1353,7 +1353,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>Assets/73.png</string>
+								<string>animation/73.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -1371,7 +1371,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>Assets/74.png</string>
+								<string>animation/74.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -1389,7 +1389,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>Assets/75.png</string>
+								<string>animation/75.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -1407,7 +1407,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>Assets/76.png</string>
+								<string>animation/76.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -1425,7 +1425,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>Assets/77.png</string>
+								<string>animation/77.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -1443,7 +1443,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>Assets/78.png</string>
+								<string>animation/78.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -1461,7 +1461,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>Assets/79.png</string>
+								<string>animation/79.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -1479,7 +1479,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>Assets/80.png</string>
+								<string>animation/80.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -1497,7 +1497,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>Assets/81.png</string>
+								<string>animation/81.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -1515,7 +1515,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>Assets/82.png</string>
+								<string>animation/82.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -1533,7 +1533,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>Assets/83.png</string>
+								<string>animation/83.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -1551,7 +1551,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>Assets/84.png</string>
+								<string>animation/84.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -1569,7 +1569,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>Assets/85.png</string>
+								<string>animation/85.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -1587,7 +1587,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>Assets/86.png</string>
+								<string>animation/86.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -1605,7 +1605,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>Assets/87.png</string>
+								<string>animation/87.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -1623,7 +1623,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>Assets/88.png</string>
+								<string>animation/88.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -1641,7 +1641,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>Assets/89.png</string>
+								<string>animation/89.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -1659,7 +1659,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>Assets/90.png</string>
+								<string>animation/90.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -1677,7 +1677,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>Assets/91.png</string>
+								<string>animation/91.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -1695,7 +1695,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>Assets/92.png</string>
+								<string>animation/92.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -1713,7 +1713,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>Assets/93.png</string>
+								<string>animation/93.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -1731,7 +1731,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>Assets/94.png</string>
+								<string>animation/94.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -1749,7 +1749,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>Assets/95.png</string>
+								<string>animation/95.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -1767,7 +1767,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>Assets/96.png</string>
+								<string>animation/96.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -1785,7 +1785,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>Assets/97.png</string>
+								<string>animation/97.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -1803,7 +1803,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>Assets/98.png</string>
+								<string>animation/98.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -1821,7 +1821,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>Assets/99.png</string>
+								<string>animation/99.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -1839,7 +1839,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>Assets/100.png</string>
+								<string>animation/100.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -1857,7 +1857,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>Assets/101.png</string>
+								<string>animation/101.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -1875,7 +1875,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>Assets/102.png</string>
+								<string>animation/102.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -1893,7 +1893,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>Assets/103.png</string>
+								<string>animation/103.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -1911,7 +1911,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>Assets/104.png</string>
+								<string>animation/104.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -1929,7 +1929,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>Assets/105.png</string>
+								<string>animation/105.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -1947,7 +1947,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>Assets/106.png</string>
+								<string>animation/106.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -1965,7 +1965,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>Assets/107.png</string>
+								<string>animation/107.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -1983,7 +1983,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>Assets/108.png</string>
+								<string>animation/108.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -2001,7 +2001,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>Assets/109.png</string>
+								<string>animation/109.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -2019,7 +2019,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>Assets/110.png</string>
+								<string>animation/110.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -2037,7 +2037,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>Assets/111.png</string>
+								<string>animation/111.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -2055,7 +2055,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>Assets/112.png</string>
+								<string>animation/112.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -2073,7 +2073,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>Assets/113.png</string>
+								<string>animation/113.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -2091,7 +2091,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>Assets/114.png</string>
+								<string>animation/114.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -2109,7 +2109,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>Assets/115.png</string>
+								<string>animation/115.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -2127,7 +2127,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>Assets/116.png</string>
+								<string>animation/116.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -2145,7 +2145,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>Assets/117.png</string>
+								<string>animation/117.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -2163,7 +2163,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>Assets/118.png</string>
+								<string>animation/118.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -2181,7 +2181,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>Assets/119.png</string>
+								<string>animation/119.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -2199,7 +2199,7 @@
 							<integer>7</integer>
 							<key>value</key>
 							<array>
-								<string>Assets/120.png</string>
+								<string>animation/120.png</string>
 								<string>Use regular file</string>
 							</array>
 						</dict>
@@ -2274,7 +2274,7 @@
 			<dict>
 				<key>baseValue</key>
 				<array>
-					<string>Assets/1.png</string>
+					<string>animation/1.png</string>
 					<string>Use regular file</string>
 				</array>
 				<key>name</key>
@@ -2284,7 +2284,7 @@
 				<key>value</key>
 				<array>
 					<string></string>
-					<string>Assets/1.png</string>
+					<string>animation/1.png</string>
 				</array>
 			</dict>
 			<dict>
@@ -2377,7 +2377,7 @@
 			<key>name</key>
 			<string>BlinkAndJump</string>
 			<key>offset</key>
-			<real>1.0410575866699219</real>
+			<real>0.0</real>
 			<key>position</key>
 			<real>0.0</real>
 			<key>resolution</key>
