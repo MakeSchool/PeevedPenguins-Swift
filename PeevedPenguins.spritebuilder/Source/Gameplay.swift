@@ -12,12 +12,12 @@ class Gameplay: CCNode, CCPhysicsCollisionDelegate {
   
   let minSpeed = CGFloat(5)
   
-  var physicsNode: CCPhysicsNode!
-  var contentNode: CCNode!
-  var catapultArm: CCNode!
-  var levelNode: CCNode!
-  var pullbackNode: CCNode!
-  var mouseJointNode: CCNode!
+  weak var gamePhysicsNode: CCPhysicsNode!
+  weak var contentNode: CCNode!
+  weak var catapultArm: CCNode!
+  weak var levelNode: CCNode!
+  weak var pullbackNode: CCNode!
+  weak var mouseJointNode: CCNode!
   var mouseJoint: CCPhysicsJoint?
   var currentPenguin: Penguin?
   var followAction: CCActionFollow?
@@ -31,29 +31,29 @@ class Gameplay: CCNode, CCPhysicsCollisionDelegate {
     
     pullbackNode.physicsBody.collisionMask = []
     mouseJointNode.physicsBody.collisionMask = []
-    physicsNode.collisionDelegate = self
-    physicsNode.debugDraw = true
+    gamePhysicsNode.collisionDelegate = self
+//    gamePhysicsNode.debugDraw = true
   }
   
   override func update(delta: CCTime) {
     if let penguin = currentPenguin {
       if penguin.launched {
         if ccpLength(penguin.physicsBody.velocity) < minSpeed {
-          self.nextAttempt()
+          nextAttempt()
           return
         }
         
         var xMin = penguin.boundingBox().origin.x
         
-        if (xMin < self.boundingBox().origin.x) {
-          self.nextAttempt()
+        if (xMin < boundingBox().origin.x) {
+          nextAttempt()
           return
         }
         
         var xMax = xMin + penguin.boundingBox().size.width
         
-        if xMax > (self.boundingBox().origin.x + self.boundingBox().size.width) {
-          self.nextAttempt()
+        if xMax > (boundingBox().origin.x + boundingBox().size.width) {
+          nextAttempt()
           return
         }
       }
@@ -75,10 +75,10 @@ class Gameplay: CCNode, CCPhysicsCollisionDelegate {
       mouseJointNode.position = touchLocation
       mouseJoint = CCPhysicsJoint.connectedSpringJointWithBodyA(mouseJointNode.physicsBody, bodyB: catapultArm.physicsBody, anchorA: CGPointZero, anchorB: CGPoint(x: 34, y: 138), restLength: 0, stiffness: 3000, damping: 150)
       
-      currentPenguin = CCBReader.load("Penguin") as Penguin?
+      currentPenguin = CCBReader.load("Penguin") as! Penguin?
       var penguinPosition = catapultArm.convertToWorldSpace(CGPoint(x: 34, y: 138))
-      currentPenguin?.position = physicsNode.convertToNodeSpace(penguinPosition)
-      physicsNode.addChild(currentPenguin!)
+      currentPenguin?.position = gamePhysicsNode.convertToNodeSpace(penguinPosition)
+      gamePhysicsNode.addChild(currentPenguin!)
       currentPenguin?.physicsBody.allowsRotation = false
       
       penguinCatapultJoint = CCPhysicsJoint.connectedPivotJointWithBodyA(currentPenguin!.physicsBody, bodyB: catapultArm.physicsBody, anchorA: currentPenguin!.anchorPointInPoints)
@@ -118,7 +118,7 @@ class Gameplay: CCNode, CCPhysicsCollisionDelegate {
     var energy = pair.totalKineticEnergy
     
     if energy > 5000 {
-      physicsNode.space.addPostStepBlock({ () -> Void in
+      gamePhysicsNode.space.addPostStepBlock({ () -> Void in
           self.sealRemoved(seal)
       }, key: seal)
     }
@@ -126,7 +126,7 @@ class Gameplay: CCNode, CCPhysicsCollisionDelegate {
   
   func sealRemoved(seal: Seal) {
     // load particle effect
-    var explosion: CCParticleSystem = CCBReader.load("SealExplosion") as CCParticleSystem
+    var explosion: CCParticleSystem = CCBReader.load("SealExplosion") as! CCParticleSystem
     // make the particle effect clean itself up, once it is completed
     explosion.autoRemoveOnFinish = true;
     // place the particle effect on the seals position
