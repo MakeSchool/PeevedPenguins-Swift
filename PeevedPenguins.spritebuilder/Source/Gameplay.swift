@@ -139,7 +139,7 @@ class Gameplay: CCNode, CCPhysicsCollisionDelegate {
   
   func retry() {
     let gameplayScene: CCScene = CCBReader.loadAsScene("Gameplay")
-    CCDirector.sharedDirector().replaceScene(gameplayScene)
+    CCDirector.sharedDirector().presentScene(gameplayScene)
   }
   
 }
