@@ -26,13 +26,12 @@ class Gameplay: CCNode, CCPhysicsCollisionDelegate {
   func didLoadFromCCB() {
     userInteractionEnabled = true
     
-    let level: CCNode = CCBReader.load("Levels/Level1")
+    let level = CCBReader.load("Levels/Level1")
     levelNode.addChild(level)
     
     pullbackNode.physicsBody.collisionMask = []
     mouseJointNode.physicsBody.collisionMask = []
     gamePhysicsNode.collisionDelegate = self
-//    gamePhysicsNode.debugDraw = true
   }
   
   override func update(delta: CCTime) {
