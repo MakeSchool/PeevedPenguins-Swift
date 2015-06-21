@@ -126,7 +126,7 @@ class Gameplay: CCNode, CCPhysicsCollisionDelegate {
   
   func sealRemoved(seal: Seal) {
     // load particle effect
-    var explosion: CCParticleSystem = CCBReader.load("SealExplosion") as! CCParticleSystem
+    var explosion = CCBReader.load("SealExplosion") as! CCParticleSystem
     // make the particle effect clean itself up, once it is completed
     explosion.autoRemoveOnFinish = true;
     // place the particle effect on the seals position
@@ -138,7 +138,7 @@ class Gameplay: CCNode, CCPhysicsCollisionDelegate {
   }
   
   func retry() {
-    let gameplayScene: CCScene = CCBReader.loadAsScene("Gameplay")
+    let gameplayScene = CCBReader.loadAsScene("Gameplay")
     CCDirector.sharedDirector().presentScene(gameplayScene)
   }
   
